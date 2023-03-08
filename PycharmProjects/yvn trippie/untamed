@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> love it or live it</title>
+</head>
+<body>
+<div style="height: 85px;width: 350px;background-color: forestgreen;">
+  <h1>love it or live it</h1>
+</div>
+<img src="img/paris.jpeg" alt=""> <img src="img/mor.jpeg" alt="">
+<div style="background-color: deepskyblue;width: 350px;height:  80px;">
+  <h2> Eat,Smoke,Sleep,Repeat</h2>
+</div>
+
+<h1>My name is Elvis</h1>
+<img src="img/moscow.jpeg" alt="">
+<h2> i love dancing</h2>
+<img src="img/rio.jpeg" alt="">
+<div style="height: 120px;width: 350px;background-color: paleturquoise">
+  <h3>dream it or live it</h3>
+</div>
+<h3>i ate a burger for breakfast</h3>
+<img src="img/oslo.jpeg" alt="">
+<h4> i am software engineer</h4>
+<img src="img/usa.jpeg" alt="">
+<div style="background-color: aliceblue;width: 300px;height:  100px;
+">
+  <h4>Always available</h4>
+</div>
+<h5>i work at a google company as a software engineeer</h5>
+<img src="img/rick.jpeg" alt="">
+<p>My name is Elvis Francis , i live Kitengela ,i am a student at the emobilis where i am studying programming  </p>
+<img src="img/morty.jpeg" alt="">                     <img src="img/rick%20m.jpeg" alt="">
+<button   style="width: 130px;height: 75px; background-color: red;color: white"> log in</button>  <button  style="background-color: forestgreen;height: 55px;width: 120px;color: white"
+> click here</button>  <button style="width: 130px;height: 45px;background-color: slateblue;color: white"
+>exit</button>         <button style="background-color: paleturquoise;width: 125px;heigth 35px;color: white">rate us</button>
+<button  style="width: 140px;height: 30px;background-color: lightskyblue;color: white"> help</button>      <button style="background-color: darkturquoise;width: 150px;height: 50px;color: white">like</button>
+</body>
+</html>
